@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darkiox</h1>
-<h3 align="center">IT and Telecoms Student from Chile</h3>
+<h3 align="center">Fullstack Developer | IT and Telecoms Student from Chile</h3>
 
-- 🌱 I’m currently learning **Git, C++.**
+- 🌱 I’m currently learning **Go, React, C++.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
