@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darkiox</h1>
-<h3 align="center">Fullstack Developer | IT and Telecoms Student from Chile</h3>
+<h3 align="center">Fullstack Developer | IT and Telecoms Engineer from Chile</h3>
 
 - 🌱 I’m currently learning **Go, React, C++.**
 
